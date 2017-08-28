@@ -1,8 +1,8 @@
 {
-	'Delay time': 60,
-	'GroupsList' : [-152533571],
-	'PostsCount' :  1,
+	'Delay time': 10,
+	'GroupsList' : [-26812045],
+	'PostsCount' :  5,
 	'WhiteList' : [],
-	'BlackWords': [],
+	'BlackWords': [лох мох, топ шоп],
 	'BlackType': ['video', 'audio']
 }
