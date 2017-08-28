@@ -3,6 +3,6 @@
 	'GroupsList' : [-26812045],
 	'PostsCount' :  5,
 	'WhiteList' : [],
-	'BlackWords': ["лох мох", "топ шоп"],
+	'BlackWords': ["баян", "боян"],
 	'BlackType': ['video', 'audio']
 }
