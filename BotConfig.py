@@ -1,6 +1,6 @@
 {
 	'Delay time': 60,
-	'GroupsList' : [],
+	'GroupsList' : [-152533571],
 	'PostsCount' :  1,
 	'WhiteList' : [],
 	'BlackWords': [],
