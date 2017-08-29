@@ -1,8 +1,8 @@
 {
-	'Delay time': 10,
+	'Delay time': 60,
 	'GroupsList' : [-26812045, -28546855],
 	'PostsCount' :  50,
 	'WhiteList' : [],
-	'BlackWords': ["баян", "боян"],
+	'BlackWords': ["баян", "боян", "в друзья"],
 	'BlackType': ['video', 'audio', 'link']
 }
