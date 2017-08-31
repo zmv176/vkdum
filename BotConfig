@@ -4,5 +4,6 @@
 	'PostsCount' :  50,
 	'WhiteList' : [],
 	'BlackWords': ["баян", "боян", "в друзья", "пизде"],
-	'BlackType': ['video', 'audio', 'link']
+	'BlackType': ['video', 'audio', 'link'],
+  	'ViewAllComments': True
 }
