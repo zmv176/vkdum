@@ -5,5 +5,5 @@
 	'WhiteList' : [],
 	'BlackWords': ["баян", "боян", "в друзья", "пизде", '[club'],
 	'BlackType': ['video', 'audio', 'link'],
-  	'ViewAllComments': True
+  	'ViewAllComments': False
 }
