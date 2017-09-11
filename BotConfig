@@ -6,3 +6,4 @@
 	'BlackWords': ["баян", "боян", "в друзья", "пизде", '[club', 'взаим'],
 	'BlackType': ['video', 'audio', 'link'],
   	'ViewAllComments': True
+}
