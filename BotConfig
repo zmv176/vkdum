@@ -2,7 +2,7 @@
 	'Delay time': 60,
 	'GroupsList' : [-26812045, -28546855, -25251165, -11787, -29490942, -45970431],
 	'PostsCount' :  50,
-	'WhiteList' : [],
+	'WhiteList' : [-29490942, 202196062],
 	'BlackWords': ["баян", "боян", "в друзья", "ебутс", "пизде", '[club', '[id', 'взаим', 'лайк'],
 	'BlackType': ['video', 'audio', 'link'],
   	'ViewAllComments': True
