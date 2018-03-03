@@ -5,5 +5,5 @@
 	'WhiteList' : [-29490942, 202196062],
 	'BlackWords': ["баян", "боян", "в друзья", "ебутс", "ебать", "съебат", "пизде", '[club', '[id', 'взаим', 'лайк', '#'],
 	'BlackType': ['video', 'audio', 'link'],
-  	'ViewAllComments': True
+  	'ViewAllComments': False
 }
